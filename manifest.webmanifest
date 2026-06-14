@@ -1,0 +1,19 @@
+{
+  "name": "Family EV Road Trip",
+  "short_name": "Road Trip",
+  "description": "Phone-friendly access point for the family EV road trip guide.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f8fb",
+  "theme_color": "#15314b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
